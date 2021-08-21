@@ -17,5 +17,5 @@
 </ol>
 
 <p>
-  Feel free to contribute
+  Feel free to contribute or ask questions
 </p>
